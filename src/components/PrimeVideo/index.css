@@ -1,0 +1,15 @@
+.app-container {
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100ch;
+  padding-bottom: 30px;
+}
+
+.banner {
+  width: 100%;
+}
+.slider-container {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 32px;
+}
